@@ -12,15 +12,11 @@ hamid sucks
 
 Lazar 
 
-<<<<<<< HEAD
-
 Hello world son of a betch pasta pizza skrrrrapapa 
 
 
 Lazar 
->>>>>>> b6ca38c24cd3bf49cc1b42df498781b3a9d58d2f
->>>>>>> a4fe053382122bb39c917eb2325e8dd8996173ba
-=======
+
 Habibi
 
 
@@ -28,4 +24,4 @@ Lazar
 
 
 
->>>>>>> adfa8fdf6ad9fea442903933d55165065bcf90ae
+
