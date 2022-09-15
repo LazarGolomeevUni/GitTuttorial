@@ -12,6 +12,8 @@ hamid sucks
 
 Lazar 
 
+
+Arabs are very hairy
 Hello world son of a betch pasta pizza skrrrrapapa 
 
 
@@ -21,6 +23,7 @@ Habibi
 
 
 Lazar 
+
 
 
 
